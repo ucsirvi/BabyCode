@@ -2,6 +2,13 @@
 
 A modern, responsive React dashboard for managing a list of students. This project demonstrates best practices in React, state management, authentication, and UI/UX, with a focus on extensibility and developer experience.
 
+# Demo Video
+
+https://github.com/user-attachments/assets/2e4d4ed4-7a25-4481-8355-52ae7143f977
+
+
+
+
 ---
 
 ## 🚀 Features
